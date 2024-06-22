@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 line1 in file a
+=======
+line 1 in a.txt
+some other lines that are added in github for a new commit
+>>>>>>> origin/main

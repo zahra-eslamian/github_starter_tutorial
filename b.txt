@@ -3,3 +3,4 @@ another line in file b
 some other lines that are commited from github
 another line in file bsome line in file b that is locally added
 in feature/cart some lines at the end of file b.
+add some code to file b in the main branch
